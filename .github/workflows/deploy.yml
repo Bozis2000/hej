@@ -7,7 +7,7 @@ on:
 env:
 
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: bradygstore0235
+  RESOURCE_GROUP_NAME: bradygstore02359
 
   # specify your preferred region
   REGION: westus
